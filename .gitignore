@@ -1,0 +1,4 @@
+*.kdb
+*.kdbk
+node_modules
+*.bak
